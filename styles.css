@@ -5,10 +5,10 @@ body, h1, h2, h3, p {
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
   line-height: 1.6;
-  color: #333;
-  background-color: #f0f0f0;
+  color: #fff;
+  background-color: #1b1b1b;
 }
 
 /* Global container style */
@@ -65,13 +65,28 @@ header.hero {
 }
 
 header.hero h1 {
-  font-size: 3rem;
-  margin-bottom: 10px;
+  font-size: 4rem;
+  margin-bottom: 20px;
 }
 
 header.hero h2 {
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: normal;
+  margin-bottom: 30px;
+}
+
+header.hero .btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #007BFF;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+header.hero .btn:hover {
+  background-color: #00ccff;
 }
 
 /* Content Sections */
