@@ -20,13 +20,13 @@ body {
 
 /* Navigation Menu */
 nav {
-  background-color: #333;
+  background-color: #FFD700; /* Yellow-goldish color */
   color: #fff;
-  padding: 20px 0; /* Increase the height of the navigation bar */
+  padding: 25px 0; /* Increase the height of the navigation bar */
 }
 
 nav h1 {
-  font-size: 1.8rem;
+  font-size: 2.2rem; /* Increased font size for the logo */
   margin: 0;
   padding: 0;
   float: left;
@@ -56,7 +56,7 @@ nav ul li a:hover {
 
 /* Header (Hero) */
 header.hero {
-  background-color: #007BFF;
+  background-color: #FFD700; /* Yellow-goldish color */
   text-align: center;
   padding: 100px 0;
   color: #000; /* Change the text color to black */
@@ -77,14 +77,14 @@ header.hero .btn {
   display: inline-block;
   padding: 12px 24px;
   background-color: #fff;
-  color: #007BFF;
+  color: #FFD700; /* Yellow-goldish color */
   text-decoration: none;
   border-radius: 4px;
   transition: background-color 0.3s, color 0.3s;
 }
 
 header.hero .btn:hover {
-  background-color: #007BFF;
+  background-color: #FFD700; /* Yellow-goldish color */
   color: #fff;
 }
 
