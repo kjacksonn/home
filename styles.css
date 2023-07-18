@@ -21,14 +21,14 @@ body {
 /* Top Bar */
 .top-bar {
   background-color: #333; /* Yellow-goldish color */
-  height: 35px;
+  height: 30px;
 }
 
 /* Navigation Menu */
 nav {
   background-color: #333;
   color: #fff;
-  padding: 25px 0; /* Increase the height of the navigation bar */
+  padding: 35px 0; /* Increase the height of the navigation bar */
 }
 
 nav h1 {
