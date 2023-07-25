@@ -128,3 +128,14 @@ footer p {
   width: 40px; /* Set the width you desire */
   height: 40px; /* Set the height you desire */
 }
+
+/* Specific style for the "My Work" button */
+.btn.my-work {
+  background-color: #fff;
+  color: #FFD700; /* Yellow-goldish color */
+}
+
+/* Style for the logo buttons (Instagram, Twitter/X, LinkedIn) */
+.btn.logo {
+  background-color: transparent;
+}
