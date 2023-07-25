@@ -124,18 +124,18 @@ footer p {
 }
 
 /* Additional CSS styles for the buttons with images */
-.btn img {
+.btnlogo img {
   width: 50px; /* Set the width you desire */
   height: 50px; /* Set the height you desire */
 }
 
 /* Specific style for the "My Work" button */
-.btn.my-work {
+.btnmy-work {
   background-color: #fff;
   color: #FFD700; /* Yellow-goldish color */
 }
 
 /* Style for the logo buttons (Instagram, Twitter/X, LinkedIn) */
-.btn.logo {
+.btnlogo {
   background-color: transparent;
 }
