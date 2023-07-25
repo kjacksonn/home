@@ -124,7 +124,7 @@ footer p {
 }
 
 /* Additional CSS styles for the buttons with images */
-.btn img {
+.btn.logo img {
   width: 50px; /* Set the width you desire */
   height: 50px; /* Set the height you desire */
 }
