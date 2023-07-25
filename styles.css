@@ -122,3 +122,9 @@ footer p {
   font-size: 1.2rem;
   margin: 0;
 }
+
+/* Additional CSS styles for the buttons with images */
+.btn img {
+  width: 40px; /* Set the width you desire */
+  height: 40px; /* Set the height you desire */
+}
