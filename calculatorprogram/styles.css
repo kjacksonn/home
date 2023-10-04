@@ -1,0 +1,30 @@
+body {
+    align-items: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color:aqua;
+}
+
+.calculator {
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#numberOne,#numberTwo {
+    text-align: center;
+}
+
+button {
+    background-color: #FF6347; 
+    font-weight: bold;
+    padding: 10px 20px; 
+    margin: 5px; 
+}
+
+#finalproduct {
+    font-size: 24px; 
+    font-weight: bold;
+}
